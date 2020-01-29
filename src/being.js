@@ -8,6 +8,6 @@ class Being {
   updateCredits(credit) {
     this.credits += credit;
   }
-}
+} 
 
 module.exports = Being;
